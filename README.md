@@ -7,7 +7,7 @@ For my full profile, you may want to check my LinkedIn, which you can find via t
 
 ---
 
-For job offers, collaboration offers, requests regarding projects' contents, please, contact me on LinkedIn or e-mail me at burdukovoleh@gmail.com
+For job offers, collaboration proposals, projects inquiries, please, contact me on LinkedIn or e-mail me at burdukovoleh@gmail.com
 
 <!--
 **OlehBurdukov/OlehBurdukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
