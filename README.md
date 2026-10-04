@@ -2,7 +2,7 @@ Hi there 👋
 ---
 My name is Oleh Burdukov. I'm Junior Financial Engineer studying at WU Vienna. I am currently pursuing a Bachelor's degree in Business, Economics and Social Sciences with major in Business Administration specialising in Finance, Mathematics and Data Science.
 
-I've built a portfolio of 120 finance mini-cases (investment theory, valuation, corporate finance, risk management), mostly as Excel models, plus R projects on option pricing and Monte Carlo credit-risk simulation. There are several tools in my inventory, such as Python, R, SQL, LaTeX and MS Excel. Preferably work in VS Code, although I also have experience in RStudio. Besides my Bachelor's, completed some certificates such as Bloomberg Market Concepts, DataCamp's Finance Fundamentals in Python etc.
+I've built a portfolio of 120 finance mini-cases (investment theory, valuation, corporate finance, risk management), mostly as Excel models, plus projects on portfolio analysis, option pricing, Monte Carlo credit-risk simulation, etc. There are several tools in my inventory, such as Python, R, SQL, LaTeX and MS Excel. Preferably work in VS Code, although I also have experience in RStudio. Besides my Bachelor's, completed some certificates such as Bloomberg Market Concepts, DataCamp's Finance Fundamentals in Python etc.
 
 ---
 
